@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <Servo.h>
+#include <ESP32Servo.h>
 #include "grippertest.hpp"
 
 namespace gripper{

@@ -1,6 +1,6 @@
 #pragma once
 #include <Arduino.h>
-#include <Servo.h>
+#include <ESP32Servo.h>
 #ifdef pattern1
 const int pattern=1;
 #elifdef pattern2
